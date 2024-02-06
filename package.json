@@ -1,0 +1,19 @@
+{
+  "name": "ig-autopost",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "instagram-private-api": "^1.45.3",
+    "jimp": "^0.22.10",
+    "request-promise": "^4.2.6",
+    "sharp": "^0.32.5",
+    "translatte": "^3.0.1"
+  }
+}
